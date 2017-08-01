@@ -1,4 +1,3 @@
-def greeting(name)
+def Greeting(name)
 	print "Hello #{name} ."
 end
-greeting(fatima)
